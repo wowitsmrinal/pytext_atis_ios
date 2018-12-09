@@ -1,2 +1,2 @@
-# pytext_atis_ios
-PyText ATIS iOS Demo
+# PyText ATIS iOS Demo
+[Link to Tutorial]
